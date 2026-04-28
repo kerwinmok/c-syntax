@@ -40,6 +40,16 @@ makefile
 
 ## build and run
 
+### java launcher (single entry app)
+
+run this when you want one class entrypoint with a styled menu, guided syntax walkthrough, and quiz mode:
+
+```powershell
+Set-Location .\c-syntax
+javac Launch.java
+java Launch
+```
+
 ### powershell on windows
 
 ```powershell
