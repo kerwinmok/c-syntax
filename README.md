@@ -42,7 +42,7 @@ makefile
 
 ### java launcher (single entry app)
 
-run this when you want one class entrypoint with a styled menu, guided syntax walkthrough, and quiz mode:
+run this when you want one class entrypoint with a styled Swing UI, guided syntax walkthrough, and quiz mode:
 
 ```powershell
 Set-Location .\c-syntax
